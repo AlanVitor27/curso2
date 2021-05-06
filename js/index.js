@@ -1,4 +1,4 @@
-var nome = "Alan Vitor de Assis"; // 1. serve para dar inicio as funções
+var nome = "Alan Vitor"; // 1. serve para dar inicio as funções
 var cargo = "CTO - Growdev";
 
 var nomeHtml = document.getElementById("nome-no-html"); // 1.1 tags para pegar elementos do html
